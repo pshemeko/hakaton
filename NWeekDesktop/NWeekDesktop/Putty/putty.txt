@@ -1,0 +1,70 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2019.06.06 12:46:00 =~=~=~=~=~=~=~=~=~=~=~=
+Firmware Version: 0x92 = v2.0
+Scan PICC to see UID, SAK, type, and data blocks...
+Card UID: E1 6C 92 32
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63  PCD_Authenticate() failed: Timeout in communication.
+  14     59  PCD_Authenticate() failed: Timeout in communication.
+  13     55  PCD_Authenticate() failed: Timeout in communication.
+  12     51  PCD_Authenticate() failed: Timeout in communication.
+  11     47  PCD_Authenticate() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+Card UID: FD 22 7D 89
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63  PCD_Authenticate() failed: Error in communication.
+  14     59  PCD_Authenticate() failed: Timeout in communication.
+  13     55  PCD_Authenticate() failed: Timeout in communication.
+  12     51  PCD_Authenticate() failed: Timeout in communication.
+  11     47  PCD_Authenticate() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+Card UID: C9 42 A9 48
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63  PCD_Authenticate() failed: Error in communication.
+  14     59  PCD_Authenticate() failed: Timeout in communication.
+  13     55  PCD_Authenticate() failed: Timeout in communication.
+  12     51  PCD_Authenticate() failed: Timeout in communication.
+  11     47  PCD_Authenticate() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+KONIEC MEETINGU
+KONIEC MEETINGU
+KONIEC MEETINGU
+KONIEC MEETINGU

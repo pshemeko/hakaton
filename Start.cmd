@@ -1,0 +1,1 @@
+C:\Tools\Putty\putty.exe -load "Hackathon"

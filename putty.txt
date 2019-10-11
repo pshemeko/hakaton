@@ -1,0 +1,149 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2019.05.31 20:17:36 =~=~=~=~=~=~=~=~=~=~=~=
+Firmware Version: 0x92 = v2.0
+Scan PICC to see UID, SAK, type, and data blocks...
+mfrc522.PICC_ReadCardSerial()
+Card UID: C9 42 A9 48
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         62   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         61   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         60   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+  14     59   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         58   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         57   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         56   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+  13     55   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         54   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         53   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         52   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+  12     51  PCD_Authenticate() failed: Timeout in communication.
+  11     47  PCD_Authenticate() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+PICC_DumpToSerial(&(mfrc522.uid)
+Card UID: 89 9C 08 21
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         62   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         61   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         60   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+  14     59   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         58   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         57   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         56   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+  13     55   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         54   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         53   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         52   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+  12     51   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         50   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         49   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+         48   00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  [ 0 0 0 ] 
+  11     47   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         46  MIFARE_Read() failed: Timeout in communication.
+         45  MIFARE_Read() failed: Timeout in communication.
+         44  MIFARE_Read() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+PICC_DumpToSerial(&(mfrc522.uid)
+mfrc522.PICC_ReadCardSerial()
+Card UID: FD 22 7D 89
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63   00 00 00 00  00 00 FF 07  80 69 FF FF  FF FF FF FF  [ 0 0 1 ] 
+         62  MIFARE_Read() failed: Timeout in communication.
+         61  MIFARE_Read() failed: Timeout in communication.
+         60  MIFARE_Read() failed: Timeout in communication.
+  14     59  PCD_Authenticate() failed: Timeout in communication.
+  13     55  PCD_Authenticate() failed: Timeout in communication.
+  12     51  PCD_Authenticate() failed: Timeout in communication.
+  11     47  PCD_Authenticate() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+PICC_DumpToSerial(&(mfrc522.uid)
+Card UID: FD 22 7D 89
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63  PCD_Authenticate() failed: Timeout in communication.
+  14     59  PCD_Authenticate() failed: Timeout in communication.
+  13     55  PCD_Authenticate() failed: Timeout in communication.
+  12     51  PCD_Authenticate() failed: Timeout in communication.
+  11     47  PCD_Authenticate() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+PICC_DumpToSerial(&(mfrc522.uid)
+Card UID: E1 6C 92 32
+Card SAK: 08
+PICC type: MIFARE 1KB
+Sector Block   0  1  2  3   4  5  6  7   8  9 10 11  12 13 14 15  AccessBits
+  15     63  PCD_Authenticate() failed: Error in communication.
+  14     59  PCD_Authenticate() failed: Timeout in communication.
+  13     55  PCD_Authenticate() failed: Timeout in communication.
+  12     51  PCD_Authenticate() failed: Timeout in communication.
+  11     47  PCD_Authenticate() failed: Timeout in communication.
+  10     43  PCD_Authenticate() failed: Timeout in communication.
+   9     39  PCD_Authenticate() failed: Timeout in communication.
+   8     35  PCD_Authenticate() failed: Timeout in communication.
+   7     31  PCD_Authenticate() failed: Timeout in communication.
+   6     27  PCD_Authenticate() failed: Timeout in communication.
+   5     23  PCD_Authenticate() failed: Timeout in communication.
+   4     19  PCD_Authenticate() failed: Timeout in communication.
+   3     15  PCD_Authenticate() failed: Timeout in communication.
+   2     11  PCD_Authenticate() failed: Timeout in communication.
+   1      7  PCD_Authenticate() failed: Timeout in communication.
+   0      3  PCD_Authenticate() failed: Timeout in communication.
+
+PICC_DumpToSerial(&(mfrc522.uid)
+mfrc522.PICC_ReadCardSerial()
+mfrc522.PICC_ReadCardSerial()
+mfrc522.PICC_ReadCardSerial()
+mfrc522.PICC_ReadCardSerial()
+mfrc522.PICC_ReadCardSerial()
+mfrc522.PICC_ReadCardSerial()
+mfrc522.PICC_ReadCardSerial()
